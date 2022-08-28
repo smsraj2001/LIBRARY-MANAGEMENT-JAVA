@@ -16,9 +16,9 @@ Some features are:-
 
 ## INSTRUCTIONS
 - Works ```BEST``` with ```BlueJ``` and a nominal JDK version.
-- Download the project, or enter the following in terminal :-
+- Download the project, or enter the following in terminal ```if you have git installed``` :-
 ```bash 
-git clone https://github.com/smsraj2001/LIBRARY-MANAGEMENT-JAVA
+git clone https://github.com/smsraj2001/LIBRARY-MANAGEMENT-JAVA.git
 ```
 - Click on Project and select ```Open Non BlueJ...``` option.
 - Select the SRC folder.
